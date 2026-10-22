@@ -226,3 +226,18 @@ __pycache__/
 data/
 *.tmp
 .vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Personal data created when you use the app
+saves/
+exports/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
